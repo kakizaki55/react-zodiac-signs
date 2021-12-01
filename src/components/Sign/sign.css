@@ -4,15 +4,25 @@
   border: blueviolet solid 4px;
   border-radius: 50%;
   margin: 10px;
-  background-color: cornsilk;
+  background-color: rgb(194, 218, 250);
 }
 .sign div {
   color: black;
   text-align: center;
+  font-family: 'Kranky', cursive;
+  font-weight: 900;
 }
 .sign img {
   display: flex;
   border: blueviolet solid 4px;
   border-radius: 50%;
-  background-color: cornsilk;
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(108, 9, 121, 1) 35%,
+    rgba(158, 7, 109, 1) 65%,
+    rgba(0, 212, 255, 1) 81%,
+    rgba(2, 161, 221, 1) 97%
+  );
 }

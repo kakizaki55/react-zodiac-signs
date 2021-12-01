@@ -2,7 +2,7 @@ import React from 'react'
 import zodiac from '../../data'
 import './main.css'
 
-import bg from '../../background.jpeg'
+import bg from '../../space.jpeg'
 
 import Sign from '../Sign/sign'
 
