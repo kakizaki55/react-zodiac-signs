@@ -1,0 +1,18 @@
+.sign {
+  height: 200px;
+  width: 200px;
+  border: blueviolet solid 4px;
+  border-radius: 50%;
+  margin: 10px;
+  background-color: cornsilk;
+}
+.sign div {
+  color: black;
+  text-align: center;
+}
+.sign img {
+  display: flex;
+  border: blueviolet solid 4px;
+  border-radius: 50%;
+  background-color: cornsilk;
+}
